@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+    font-family: 'Oswald', sans-serif;
+    font-size: 62.5%;
+    line-height: 1.6rem;
+}
+
+:root{
+    --primary-color: #db0018;
+    --white-color: #fff;
+    --black-color: #000;
+    --gray-color: #ccc;
+    --text-color: #5f5f5f;
+}
+
+.active{
+    color: var(--primary-color) !important ; 
+}
+
+.text-primary{
+    color: var(--primary-color);
+}
+
+
+/* link
+http://preview.themeforest.net/item/ily-under-construction-template/full_screen_preview/21862517?_ga=2.231760214.830027511.1627225480-949089473.1627030269
+http://preview.themeforest.net/item/ennio-creative-portfolio-template/full_screen_preview/19752858?_ga=2.159245683.874573571.1627225641-949089473.1627030269
+http://preview.themeforest.net/item/time-responsive-coming-soon-page/full_screen_preview/6510695?_ga=2.42962981.1854110722.1627224861-949089473.1627030269
+http://preview.themeforest.net/item/the-one-one-page-html-template/full_screen_preview/4141168?_ga=2.205929491.1050504610.1627224306-949089473.1627030269
+http://preview.themeforest.net/item/life-responsive-under-construction-template/full_screen_preview/13496366?_ga=2.106740419.1136901120.1627224204-949089473.1627030269
+http://preview.themeforest.net/item/quantex-creative-coming-soon-template/full_screen_preview/23923528?_ga=2.224392349.7434870.1627226775-949089473.1627030269 */
